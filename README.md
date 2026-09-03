@@ -267,7 +267,7 @@ Persistence is implemented using **SQLAlchemy 2.0**.
 
 # Architecture
 
-
+(docs/Order Supervisor Architecture.png)
 
 
 # System Flow
