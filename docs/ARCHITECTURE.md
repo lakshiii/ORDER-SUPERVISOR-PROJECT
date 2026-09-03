@@ -1,6 +1,6 @@
 # Architecture Note: AI-Powered Order Supervisor
 
-![Architecture Diagram](architecture.png)
+
 
 ## Overview & Core Principles
 
